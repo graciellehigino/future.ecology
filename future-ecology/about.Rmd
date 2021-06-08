@@ -4,22 +4,40 @@ description: |
   Some additional details about the website
 ---
 
-PHOTO
+<div style="float:left; text-align: justify">
+<img src="images/gracielle.png" style="width:40%; border:5px solid; margin-right: 20px" align="left">
+
 Gracielle Higino
 STORY
 SOCIAL LINKS - MAKE IT STALKABLE!!!!!!!!!!!!!!!11111
+</div> 
 
-PHOTO
+--- 
+
+<div style="float:left; text-align: justify">
+<img src="images/mickey.jpg" style="width:40%; border:5px solid; margin-right: 20px" align="left">
+
 Mickey Boakye
 STORY
 SOCIAL LINKS - MAKE IT STALKABLE!!!!!!!!!!!!!!!11111
+</div> 
 
-PHOTO
+---
+
+<div style="float:left; text-align: justify">
+<img src="images/norma.jpg" style="width:40%; border:5px solid; margin-right: 20px" align="left">
+
 Norma Rocio Forero-Muñoz
 STORY
 SOCIAL LINKS - MAKE IT STALKABLE!!!!!!!!!!!!!!!11111
+</div> 
 
-PHOTO
+---
+
+<div style="float:left; text-align: justify">
+<img src="images/tanya.jpg" style="width:40%; border:5px solid; margin-right: 20px" align="left">
+
 Tanya Strydom
 STORY
 SOCIAL LINKS - MAKE IT STALKABLE!!!!!!!!!!!!!!!11111
+</div> 
