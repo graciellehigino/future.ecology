@@ -1,5 +1,6 @@
 name: "future-ecology"
 title: "Future Ecology"
+theme: theme.css
 description: |
   Future Ecology
 output_dir: "docs"
