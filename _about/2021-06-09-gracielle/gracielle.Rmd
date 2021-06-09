@@ -3,6 +3,7 @@ title: "Gracielle"
 description: |
   Estar em uma floresta tropical teve o mesmo efeito em mim que em diversos naturalistas que despertaram para o grande mistério da natureza ao viajarem para os trópicos.
 author: "Gracielle Higino"
+preview: gracielle.png
 date: 06-09-2021
 output:
   distill::distill_article:
@@ -11,14 +12,14 @@ output:
 
 
 <div style="float:left; text-align: justify">
-<img src="images/gracielle.png" style="width:40%; border:5px solid; margin-right: 20px" align="left">
+<img src="gracielle.png" style="width:40%; border:5px solid; margin-right: 20px" align="left">
 
 
 <a href="https://twitter.com/GracielleHigino">
-<img src="images/tt.png" alt="@GracielleHigino" width="30"/>
+<img src="tt.png" alt="@GracielleHigino" width="30"/>
 </a>
 <a href="https://www.linkedin.com/in/graciellehigino">
-<img src="images/li.png" alt="www.linkedin.com/in/graciellehigino" width="30" />
+<img src="li.png" alt="www.linkedin.com/in/graciellehigino" width="30" />
 </a>
 
 Estar em uma floresta tropical teve o mesmo efeito em mim que em diversos naturalistas que despertaram para o grande mistério da natureza ao viajarem para os trópicos. Como uma criança extremamente curiosa e que amava sentir a terra fria nos pés quentinhos, crescer rodeada de Mata Atlântica foi uma maravilha. Eu queria crescer e entender como aquilo tudo funcionava. Como os humanos estavam sempre destruindo coisas que nunca mais voltavam a ser como eram antes, mas no meio da floresta tudo parecia sempre intacto, embora sempre diferente? Em um dia aparecia um tronco no meio do riacho, no outro aparecia um ninho de inseto à margem deste riacho, depois essas coisas desapareciam e davam lugar a outras, mas nada parecia sair de um pleno e orquestrado funcionamento.  
