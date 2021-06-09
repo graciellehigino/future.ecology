@@ -3,11 +3,14 @@ title: "Future Ecology"
 theme: theme.css
 description: |
   Future Ecology
-output_dir: "."
+output_dir: "docs"
 navbar:
   right:
     - text: "Home"
       href: index.html
-    - text: "Know the organizers"
+    - text: "Meet the organizers"
       href: about.html
 output: distill::distill_article
+repository_url: https://github.com/graciellehigino/future.ecology
+creative_commons: CC BY
+base_url: https://graciellehigino.github.io/
