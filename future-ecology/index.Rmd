@@ -3,7 +3,9 @@ title: "Future Ecology"
 description: |
   Support website for the open-format session "Designing a collective prototype of future tropical and subtropical science", to take place at the ATBC Annual Meeting 2021.
 site: distill::distill_website
-toc: true
+output:
+  distill::distill_article:
+    toc: true
 ---
 
 # Designing a collective prototype of future tropical and subtropical science 
@@ -20,26 +22,35 @@ Together, we will assess the diversity of challenges and opportunities frequentl
 
 # Help us reimagine the future!
 
-We invite you to help us in this task by answering our survey. It can take as short as three minutes, or as long as you feel like! Please consider sharing your story with us if you:
-* **Are an early career researcher (ECR)**. This usually means that you are a grad student, a researcher that graduated up to a few years ago, or even a new PI (first year or so). We are very open about this definition. If you are not sure if you can be considered an ECR for this matter, feel free to [contact us](mailto:future.ecology@protonmail.com)!  
-* **Grew up in a tropical or sub-tropical country.**  
+We invite you to help us in this task by answering our survey. It can take as short as three minutes, or as long as you feel like! Please consider sharing your story with us if you:  
+
+- **Are an early career researcher (ECR)**. This usually means that you are a grad student, a researcher that graduated up to a few years ago, or even a new PI (first year or so). We are very open about this definition. If you are not sure if you can be considered an ECR for this matter, feel free to [contact us](mailto:future.ecology@protonmail.com)!  
+
+- **Grew up in a tropical or sub-tropical country.**  
 
 If you need inspiration, take a look at [your hosts' stories](/about)!
 
 ### You can answer the survey in English, French, Portuguese or Spanish!
 Please chose the link correspondent to the language you want to use in your answers:
-* [Survey in English](https://forms.office.com/r/ViAq7YSeEJ)  
-* [Enquête en Français](https://forms.office.com/r/5T6hBNB7rn)  
-* [Questionário em português](https://forms.office.com/r/HA5Ht9tHP5)  
-* [Encuesta en español](https://forms.office.com/r/aMR4PwxMeU)  
+
+- [Survey in English](https://forms.office.com/r/ViAq7YSeEJ)  
+
+- [Enquête en Français](https://forms.office.com/r/5T6hBNB7rn)  
+
+- [Questionário em português](https://forms.office.com/r/HA5Ht9tHP5)  
+
+- [Encuesta en español](https://forms.office.com/r/aMR4PwxMeU)  
 
 # Join uuuussszzzz!!!
 
 Let's discuss how the future will look like!
 
-The session will last one hour and will have basically a three-step structure:
-* **Learn!** Take a look at other people's anonymous stories.  
-* **Remix!** What could have been different in the stories you've read?  
-* **Design!** Build a prototype of the future of tropical ecology!
+The session will last one hour and will have basically a three-step structure:  
+
+- **Learn!** Take a look at other people's anonymous stories.  
+
+- **Remix!** What could have been different in the stories you've read?  
+
+- **Design!** Build a prototype of the future of tropical ecology!  
   
 More information about the session can be found [here](https://www.atbc2021.org/ofs/designing-a-collective-prototype-of-future-tropical-and-subtropical-science-%5Bofs-5%5D). If you are interested, go to the [ATBC Meeting webpage](https://www.atbc2021.org/) to register!

@@ -9,7 +9,12 @@ description: |
 
 ### Gracielle Higino
 
-[![](images/tt.png)](https://twitter.com/GracielleHigino)  [![](images/li.png)](www.linkedin.com/in/graciellehigino)
+<a href="https://twitter.com/GracielleHigino">
+<img src="images/tt.png" alt="@GracielleHigino" width="30"/>
+</a>
+<a href="https://www.linkedin.com/in/graciellehigino">
+<img src="images/li.png" alt="www.linkedin.com/in/graciellehigino" width="30" />
+</a>
 
 Estar em uma floresta tropical teve o mesmo efeito em mim que em diversos naturalistas que despertaram para o grande mistério da natureza ao viajarem para os trópicos. Como uma criança extremamente curiosa e que amava sentir a terra fria nos pés quentinhos, crescer rodeada de Mata Atlântica foi uma maravilha. Eu queria crescer e entender como aquilo tudo funcionava. Como os humanos estavam sempre destruindo coisas que nunca mais voltavam a ser como eram antes, mas no meio da floresta tudo parecia sempre intacto, embora sempre diferente? Em um dia aparecia um tronco no meio do riacho, no outro aparecia um ninho de inseto à margem deste riacho, depois essas coisas desapareciam e davam lugar a outras, mas nada parecia sair de um pleno e orquestrado funcionamento.  
 Eu senti que não poderia ser feliz na vida adulta, essa em que geralmente temos que trabalhar e pagar contas, se não pudesse passar as oito horas de trabalho neste mesmo ambiente - físico ou mental. Foi difícil entrar na faculdade, nunca fui uma aluna brilhante, mas na terceira ou quarta tentativa entrei em um mudo que era muito maior do que eu imaginava. Aprendi que não basta ser bióloga, há de escolher uma especialidade - mas como, se tudo me interessava? Escolhi a ecologia por ser a área que parecia conectar a maior parte das coisas. Eu poderia ser ecóloga e estudar a vida dos passarinhos, ou como eles interagem com as plantas, ou como as populações de microalgas flutuam ao longo do tempo... Seria como decifrar a partitura que guia um regente invisível só de ouvir o que a orquestra executa.  
