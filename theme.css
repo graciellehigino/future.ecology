@@ -87,7 +87,7 @@ ul > li::marker {
 h1, h2, h3, h4, h5, h6 {
   letter-spacing: 2px;
   font-weight: 300;
-  line-height: 2;
+  line-height: 2em;
 }
 
 .distill-site-header .logo img{
@@ -103,7 +103,7 @@ d-article h2,
 .posts-list .description h2,
 .posts-list > h1 {
     font-weight: 300;
-    line-height: 2;
+    line-height: 2em;
 }
 
 d-appendix {
