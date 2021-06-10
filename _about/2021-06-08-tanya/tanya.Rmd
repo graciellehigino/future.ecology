@@ -1,0 +1,27 @@
+---
+title: "Tanya"
+description: |
+  A code switching (both spoken and programmatic) ecologist in training who spent my formative years in the grasslands of South Africa 
+author: "Tanya Strydom"
+preview: tanya.png
+date: 06-08-2021
+output:
+  distill::distill_article:
+    self_contained: false
+---
+
+
+<div style="float:left; text-align: justify">
+<img src="tanya.png" style="width:40%; border:5px solid; margin-right: 20px" align="left">
+
+
+<a href="https://twitter.com/TanyaS_08">
+<img src="tt.png" alt="@TanyaS_08" width="30"/>
+</a>
+
+
+
+
+</div> 
+
+--- 
