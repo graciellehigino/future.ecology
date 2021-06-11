@@ -3,41 +3,14 @@ title: "About this site"
 description: |
   Some additional details about the website
 ---
-
 <div style="float:left; text-align: justify">
-<img src="images/gracielle.png" style="width:40%; border:5px solid; margin-right: 20px" align="left">
+<img src="images/Norma.jpg" style="width:40%; border:5px solid; margin-right: 20px" align="left">
 
-Gracielle Higino
-STORY
-SOCIAL LINKS - MAKE IT STALKABLE!!!!!!!!!!!!!!!11111
-</div> 
+### Norma Rocio Forero
+  
+[![](images/tt.png)](https://twitter.com/norma_forero)  [![](images/li.png)](https://www.linkedin.com/in/norma-forero-01/)
 
---- 
-
-<div style="float:left; text-align: justify">
-<img src="images/mickey.jpg" style="width:40%; border:5px solid; margin-right: 20px" align="left">
-
-Mickey Boakye
-STORY
-SOCIAL LINKS - MAKE IT STALKABLE!!!!!!!!!!!!!!!11111
+Soy médica veterinaria apasionada por la fauna silvestre, naci en colombia, me apasiona la ecologia de enfermedades por lo tanto, decidi aprender de ecología. 
 </div> 
 
 ---
-
-<div style="float:left; text-align: justify">
-<img src="images/norma.jpg" style="width:40%; border:5px solid; margin-right: 20px" align="left">
-
-Norma Rocio Forero-Muñoz
-STORY
-SOCIAL LINKS - MAKE IT STALKABLE!!!!!!!!!!!!!!!11111
-</div> 
-
----
-
-<div style="float:left; text-align: justify">
-<img src="images/tanya.jpg" style="width:40%; border:5px solid; margin-right: 20px" align="left">
-
-Tanya Strydom
-STORY
-SOCIAL LINKS - MAKE IT STALKABLE!!!!!!!!!!!!!!!11111
-</div> 
