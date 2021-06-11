@@ -17,5 +17,14 @@
       <pubDate>Wed, 09 Jun 2021 00:00:00 +0000</pubDate>
       <media:content url="https://graciellehigino.github.io/about/2021-06-09-gracielle/gracielle.png" medium="image" type="image/png" width="409" height="409"/>
     </item>
+    <item>
+      <title>Tanya</title>
+      <dc:creator>Tanya Strydom</dc:creator>
+      <link>https://graciellehigino.github.io/about/2021-06-08-tanya</link>
+      <description>A code switching (both spoken and programmatic) ecologist in training who spent my formative years geeking out in the grasslands of South Africa</description>
+      <guid>https://graciellehigino.github.io/about/2021-06-08-tanya</guid>
+      <pubDate>Tue, 08 Jun 2021 00:00:00 +0000</pubDate>
+      <media:content url="https://graciellehigino.github.io/about/2021-06-08-tanya/tanya.png" medium="image" type="image/png" width="720" height="708"/>
+    </item>
   </channel>
 </rss>

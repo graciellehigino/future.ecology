@@ -10,6 +10,9 @@ output:
 
 # Designing a collective prototype of future tropical and subtropical science 
 
+![A scientist surrounded by many plants and animals, with a pair of binocles and light coloured clothes, wearing futuristic sneakers and standing on a hoverboard. On their left side, a hologram of an Ewok, which is their virtual assistant.](images/future_scientist.jpg)
+*The future tropical scientist in the field! Amazing artwork by [Tanya Strydom](https://tanyadoesscience.com/).*
+
 The world is constantly changing, but the way we do science is not. While there's space for reimagining our future, there's space for transformation. We must take a time **now** to think about the future we want to have.  
 
 **Being a scientist from a tropical or subtropical country is a unique experience**, with its own challenges and opportunities, but it is often normalized that a successful scientific career can not be pursued in our home countries. As a hyper-diverse region, it is important to acknowledge the equally **diverse stories** behind each scientist so we can understand the history and redesign the future of an inclusive global science.
