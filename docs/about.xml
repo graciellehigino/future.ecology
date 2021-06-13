@@ -7,7 +7,16 @@
     <description>Future Ecology
 </description>
     <generator>Distill</generator>
-    <lastBuildDate>Wed, 09 Jun 2021 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 13 Jun 2021 00:00:00 +0000</lastBuildDate>
+    <item>
+      <title>Norma</title>
+      <dc:creator>Norma Forero</dc:creator>
+      <link>https://graciellehigino.github.io/about/2021-06-13-norma</link>
+      <description>Soy una colombiana que está preparándose para ser ecóloga de enfermedades. Un camino que se ha forjado desde la pasión y la perseverancia.</description>
+      <guid>https://graciellehigino.github.io/about/2021-06-13-norma</guid>
+      <pubDate>Sun, 13 Jun 2021 00:00:00 +0000</pubDate>
+      <media:content url="https://graciellehigino.github.io/about/2021-06-13-norma/Norma.jpg" medium="image" type="image/jpeg"/>
+    </item>
     <item>
       <title>Gracielle</title>
       <dc:creator>Gracielle Higino</dc:creator>
