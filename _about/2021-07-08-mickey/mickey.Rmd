@@ -1,10 +1,10 @@
 ---
 title: "Mickey"
 description: |
-  A code switching (both spoken and programmatic) ecologist in training who spent my formative years geeking out in the grasslands of South Africa 
+  Hanging out with nature! A Ghanaian investigating plant_hydraulics & vulnerability to drought stress 🌳 leaf venation & architecture 🍃 in the tropics and deserts 
 author: "Mickey Boakye"
 preview: mickey.png
-date: 07-08-2021
+date: 06-08-2021
 output:
   distill::distill_article:
     self_contained: false
