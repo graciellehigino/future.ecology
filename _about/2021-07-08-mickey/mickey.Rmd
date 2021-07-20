@@ -1,0 +1,39 @@
+---
+title: "Mickey"
+description: |
+  Hanging out with nature! A Ghanaian investigating plant_hydraulics & vulnerability to drought stress 🌳 leaf venation & architecture 🍃 in the tropics and deserts 
+author: "Mickey Boakye"
+preview: mickey.jpeg
+date: 06-08-2021
+output:
+  distill::distill_article:
+    self_contained: false
+---
+
+
+<div style="float:left; text-align: justify">
+<img src="mickey.jpeg" style="width:40%; border:5px solid; margin-right: 20px" align="left">
+
+
+<a href="https://twitter.com/M_K_Boakye">
+<img src="tt.png" alt="@M_K_Boakye" width="30"/>
+</a>
+
+I have wandered around the world but always call the tropics my home. One may ask: why? It’s because I am from the tropics! I was raised in Ghana, a country off the west coast of Africa beaming with the mystery of nature and all there is to behold. Growing up in a dense forest setting, filled with wildlife, I felt close to nature's heart and had a desire to keep it safe and protected. The seasons are the best. Rainy seasons are always soothing, sometimes leaving behind a radiant rainbow (which to me is nature's way of telling humans to keep earth safe as beautiful as the colours in the rainbow). On the other hand, the dry seasons exudes the differences in forest structure from evergreen to deciduous species.
+
+As I enrolled in college, I knew I had nature at heart and wanted to help safeguard it but I did not know how to start. I graduated college with a degree in silviculture and forest management, and while I learned about forest management practices and engaged in afforestation activities like tree planting exercises, I still felt within myself there is more to be done to make meaningful contributions to natural resources protection.  I realised that to properly manage the forest community requires  knowing how it functions with or without external influences, both biotic and abiotic.
+
+After college, I joined the forestry research institute (FORIG) in my country and that was the watershed moment in my career development. FORIG is a melting pot of scientists and researchers of differing backgrounds and specialties all coexisting to understand and better manage the forest/forest resources. I soon had the chance to learn from scientists who were ready to help lift me from my fledgling career to maneuver the turbulent winds of the scientific world. During that time, I measured aboveground (gas exchange, woody debris, litter fall) and belowground (root gas exchange, root biomass) traits and analysed them which had positive impacts. Though there were rough times, I was lucky to have a better opportunity compared to other colleagues that had no experience under similar established scientists. 
+
+After several research data collections and dedicated research work, I advanced my academic career to the graduate (MSc) level. At the end of my master’s program I had established myself in ecology and amassed many collaborations. I found collaborative work with international scientists to be especially enriching. My love for science grew and I yearned for a more refined area of study to contribute significantly in my field.
+
+I applied for a doctoral program in the US where I landed in a non-tropical environment (studying in desert and mediterranean climates). I worked on hydraulic traits of native sonoran desert species (e.g creosote and mesquite) which had different characteristics from tropical environment species that I was already familiar with. Comparing and contrasting environments within which species occupy challenged my thinking and broadened my knowledge scope. However, my affection for the tropics is still green and I strive to work in a tropical setting whenever the opportunity presents itself. For this reason a part of my research will be conducted in my home country to help contribute to understanding the forest functioning. However, there have been many uncertainties as to the level of data I could leverage due to the covid-19 pandemic. 
+
+As an early career scientist, my aspirations and goals take center stage in my development, but this can come at the cost of abandoning my home country and family,which is sad for me. The decision to leave home was a big move but sometimes the options available locally are too limited. It is true that generally, scientists have better training and more funding in rich countries, and that this difference has existed for ages. Perhaps this will continue into the future. I do not have a specific answer, but what I know is that data drives science and data, no matter where it is acquired, contributes to our overall scientific knowledge.
+
+My personal belief is that science is an international activity that should be fluid and borderless. Resources should be equitably distributed without prejudice between nations to leverage multinational teams to help advance the field. In addition, a transborder scientific approach ensures specimens remain in their country of origin for safety and conservation while reducing transportation cost. I believe there can be a systematic effort to ensure scientific  equalization which may provide synergistic effects of benefits over cost in the future.
+
+
+</div> 
+
+--- 
