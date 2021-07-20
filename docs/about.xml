@@ -35,5 +35,14 @@
       <pubDate>Tue, 08 Jun 2021 00:00:00 +0000</pubDate>
       <media:content url="https://graciellehigino.github.io/about/2021-06-08-tanya/tanya.png" medium="image" type="image/png" width="720" height="708"/>
     </item>
+    <item>
+      <title>Mickey</title>
+      <dc:creator>Mickey Boakye</dc:creator>
+      <link>https://graciellehigino.github.io/about/2021-07-08-mickey</link>
+      <description>Hanging out with nature! A Ghanaian investigating plant_hydraulics &amp; vulnerability to drought stress 🌳 leaf venation &amp; architecture 🍃 in the tropics and deserts</description>
+      <guid>https://graciellehigino.github.io/about/2021-07-08-mickey</guid>
+      <pubDate>Tue, 08 Jun 2021 00:00:00 +0000</pubDate>
+      <media:content url="https://graciellehigino.github.io/about/2021-07-08-mickey/mickey.jpeg" medium="image" type="image/jpeg"/>
+    </item>
   </channel>
 </rss>
